@@ -3,6 +3,7 @@
 ## Prerequesites
 * ESP-IDF v6.1 installed.
 * ESP32 or similar microcontroller with potentiometer connected
+* libserialport
 
 ## Getting Started
 
